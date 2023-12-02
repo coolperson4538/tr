@@ -1,2 +1,6 @@
 # Build instructions
-Please install python from the official website
+Please install python from the official website and do
+
+```
+python installer.py
+```
